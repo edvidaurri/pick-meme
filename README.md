@@ -1,2 +1,0 @@
-# pick-meme
-Final Project
